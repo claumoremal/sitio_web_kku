@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@100;200;500;600&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  color: black; }
+
+nav ul {
+  list-style: none; }
+  nav ul li a {
+    margin: 15px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-family: "Bebas Neue";
+    text-decoration: none;
+    text-transform: uppercase; }
+
+.background__contacto {
+  background-image: url("../images/handsome-man-biker-travelling-on-mototrcycle.jpg");
+  /* The image used */
+  height: 100vh;
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover;
+  /* Resize the background image to cover the entire container */ }
+
+.section__contacto {
+  color: white; }
