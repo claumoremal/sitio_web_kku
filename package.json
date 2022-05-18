@@ -1,0 +1,24 @@
+{
+  "name": "sitio_web_kku",
+  "version": "1.0.0",
+  "description": "<img src=\"images/logo_chico.JPG\" alt=\"logo chico\" title=\"logo chico\">",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass --include-path scss scss/main_estilos.scss css/estilos_scss.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claumoremal/sitio_web_kku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claumoremal/sitio_web_kku/issues"
+  },
+  "homepage": "https://github.com/claumoremal/sitio_web_kku#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
