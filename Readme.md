@@ -6,4 +6,4 @@ Kustom Kulture Uruguay (KKU) es un taller de customización de motos
 
 ## Demostración
 
-Para ingresar a la demo de la web ingrese [aquí](https://claumoremal.github.io/Proyecto_KKU/)
+Para ingresar a la demo de la web ingrese [aquí](https://claumoremal.github.io/sitio_web_kku/)
